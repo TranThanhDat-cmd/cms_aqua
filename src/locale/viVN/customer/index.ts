@@ -1,0 +1,17 @@
+export default {
+  'customer.customerName': 'Họ và tên',
+  'customer.customerPhone': 'Số điện thoại',
+  'customer.customerAddress': 'Địa chỉ',
+  'customer.customerEmail': 'Email',
+  'customer.customerCoin': 'Số điểm',
+  'customer.isActive': 'Trạng thái',
+  'customer.action': 'Hành động',
+  'customer.name': 'Quản lý khách hàng',
+  'customer.true': 'Đang hoạt động',
+  'customer.false': 'Dừng hoạt động',
+  'customer.accountStatus': 'Trạng thái hoạt động',
+  'customerHistory.name': 'Lịch sử khách hàng',
+  'customerHistory.amountNoneAqua': 'Số lượng chai không phải Aqua',
+  'customerHistory.amountAqua': 'Số lượng chai là Aqua',
+  'customerHistory.amountCoin': 'Số điểm đạt được',
+};

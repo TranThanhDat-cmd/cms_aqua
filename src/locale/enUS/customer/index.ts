@@ -1,0 +1,17 @@
+export default {
+  'customer.customerName': 'First and last name',
+  'customer.customerPhone': 'Phone number',
+  'customer.customerAddress': 'Address',
+  'customer.customerEmail': 'email',
+  'customer.customerCoin': 'Surplus',
+  'customer.isActive': 'Status',
+  'customer.action': 'Act',
+  'customer.name': 'Customer management',
+  'customer.true': 'Active',
+  'customer.false': 'Stop working',
+  'customer.accountStatus': 'Operating status',
+  'customerHistory.name': 'Customer history',
+  'customerHistory.amountNoneAqua': 'The number of bottles is not Aqua',
+  'customerHistory.amountAqua': 'The number of bottles is Aqua',
+  'customerHistory.amountCoin': 'Number of points achieved',
+};
